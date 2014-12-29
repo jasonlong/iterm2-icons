@@ -4,17 +4,16 @@
 
 # Usage
 
-1. Open the .icns file and press `Cmd+C`
+![](http://i.imgur.com/CQm8kxg.gif)
 
-![](http://i.imgur.com/EzBKWdW.jpg)
+1. Clone this repository.
+
+  ```bash
+    $ git clone git@github.com:jasonlong/iterm-replacement-icon.git ~/iterm-replacement-icon
+  ```
 
 2. Go to `Applications` folder, select iTerm and hit `Cmd+I` (or `right-click -> Get Info`)
 
-3. Click on the icon (a blue border will appear around it).
+3. Open the `~/iterm-replacement-icon` folder.
 
-![](http://i.imgur.com/XhtkryK.jpg)
-
-4. Press `Cmd+V`.
-
-![](http://i.imgur.com/J1VP1Wx.jpg)
-
+4. Drag the `iTerm2.icns` into the old iTerm icon.
