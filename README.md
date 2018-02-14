@@ -1,10 +1,6 @@
-# Screenshot
-
-![](http://cl.ly/image/1i1o3j1J3K09/content)
+![icon_128x128 2x](https://user-images.githubusercontent.com/6104/36222178-7eb8ade6-118e-11e8-9617-290337cc7aab.png)
 
 # Usage
-
-![](http://i.imgur.com/CQm8kxg.gif)
 
 1. Clone this repository.
 
