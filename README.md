@@ -6,7 +6,7 @@ The current version of [iTerm2](https://iterm2.com/) uses an icon I contributed 
 
 If you'd like to make your own variation, you can take a look at the [Figma source file](https://www.figma.com/file/Ncz44QwwaKXTYejbBie8xe0B/iTerm2-icons?node-id=0%3A16). For creating the `.icns` files, I used [Icon Tool for Developers](https://itunes.apple.com/us/app/icon-tool-for-developers/id554660130?mt=12).
 
-#### Usage
+### Usage
 
 1. Clone this repository.
 
