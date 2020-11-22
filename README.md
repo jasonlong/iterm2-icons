@@ -1,4 +1,4 @@
-![sample](https://raw.githubusercontent.com/jasonlong/iterm2-icons/master/sample-horizontal.png)
+![preview](https://raw.githubusercontent.com/jasonlong/iterm2-icons/master/social-preview.png)
 
 ### Usage
 
