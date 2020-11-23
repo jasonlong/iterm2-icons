@@ -1,4 +1,4 @@
-![preview](https://raw.githubusercontent.com/jasonlong/iterm2-icons/master/social-preview.png)
+![preview](https://raw.githubusercontent.com/jasonlong/iterm2-icons/main/social-preview.png)
 
 ### Usage
 
@@ -13,6 +13,8 @@
 3. Open the `~/iterm2-icons` folder.
 
 4. Drag the `.icns` icon of your choice onto the old iTerm2 icon.
+
+<img width="289" src="https://raw.githubusercontent.com/jasonlong/iterm2-icons/main/get-info-window.png" alt="Get Info window" />
 
 _Note that you'll need to repeat this process after updating to a new version of iTerm2._
 
