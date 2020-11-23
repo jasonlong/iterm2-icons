@@ -2,7 +2,7 @@
 
 ### Usage
 
-1. Clone this repository.
+1. Either download the zip file from the [releases page](https://github.com/jasonlong/iterm2-icons/releases) or clone this repository.
 
   ```bash
     $ git clone git@github.com:jasonlong/iterm2-icons.git ~/iterm2-icons
